@@ -109,7 +109,9 @@ def main():
         display_news(sorted_data)
 
     st.sidebar.markdown("---")
-    st.sidebar.text("Footer: Informasi Tambahan")
+    st.sidebar.text("Project Akhir STKI")
+    st.sidebar.text("Yosephine Elisaujana Narwasthu")
+    st.sidebar.text("A11.2020.12685")
 
 # Run the main function
 if __name__ == "__main__":
